@@ -1,35 +1,55 @@
-<!-- Banner -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Sparsh's+Profile)
+# 👋 Hi, I'm Sparsh Malhotra!  
+![Profile Banner](https://github.com/SparshMalhotra/SparshMalhotra/blob/main/banner.png)  
 
-# 👋 Hi, I'm Sparsh Malhotra!
-### 💻 Aspiring Developer | Learning JavaScript 🚀
+### 💻 Aspiring Developer | Learning JavaScript 🚀  
 
-- 🔹 Proficient in **Java, Google App Scripts, and SQL**
-- 🌱 Currently learning **JavaScript** to enhance my development skills
-- 🔍 Exploring **backend development & database management**
-- 💡 Passionate about **automation, problem-solving, and efficient coding**
-
-📫 **Connect with me:**
-- 📧 Email: [sparsh131199@gmail.com](mailto:sparsh131199@gmail.com)
-- 🔗 LinkedIn: [Sparsh Malhotra](https://www.linkedin.com/in/sparsh-malhotra-14a731146)
+![Profile Views](https://komarev.com/ghpvc/?username=SparshMalhotra&label=Profile%20Views&color=blue&style=flat)  
+![Followers](https://img.shields.io/github/followers/SparshMalhotra?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/SparshMalhotra?affiliations=OWNER&style=social)  
 
 ---
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Google App Scripts](https://img.shields.io/badge/Google%20App%20Scripts-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+## 🔹 About Me  
+- 💻 **Proficient in:** Java, Google App Scripts, and SQL  
+- 🌱 **Currently Learning:** JavaScript for web development  
+- 🔍 **Exploring:** Backend development & database management  
+- 💡 **Passionate about:** Automation, problem-solving, and efficient coding  
+- 🎯 **Goals:** Contributing to open-source projects & mastering JavaScript  
+- ⚡ **Fun Fact:** I enjoy solving coding challenges & automating repetitive tasks!  
 
 ---
 
-### 📊 GitHub Stats
-![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SparshMalhotra&show_icons=true&theme=tokyonight)
+## 📫 Connect with Me  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sparsh131199@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-malhotra-14a731146)  
 
 ---
 
-### 🚀 Fun Fact
-I enjoy solving coding challenges & automating repetitive tasks!
+## 🛠️ Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=flat&logo=Google-Apps-Script&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) (Learning...)  
 
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/SparshMalhotra?label=Follow&style=social)](https://github.com/SparshMalhotra)
+---
+
+## 📊 GitHub Stats  
+![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SparshMalhotra&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshMalhotra&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SparshMalhotra&theme=tokyonight)  
+
+---
+
+### 🎨 How to Add a Banner  
+1. **Create a banner** (1000x300px recommended)  
+2. **Upload it to your GitHub repository**  
+3. **Replace `banner.png` with your image link**  
+
+---
+
+🚀 **Now your GitHub profile looks more interactive!** 🔥  
+Let me know if you need **further customizations**! 😊  
