@@ -34,11 +34,4 @@
 
 ## 📊 GitHub Stats  
 ![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SparshMalhotra&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshMalhotra&layout=compact&theme=tokyonight)  
-
----
-
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SparshMalhotra&theme=tokyonight)  
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh1311&layout=compact&theme=tokyonight)  
