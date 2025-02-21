@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sparsh Malhotra!  
-![Profile Banner](https://github.com/SparshMalhotra/SparshMalhotra/blob/main/banner.png)  
+![Profile Banner](https://github.com/Sparsh1311/Sparsh1311/blob/main/banner.png)  
 
 ### 💻 Aspiring Developer | Learning JavaScript 🚀  
 
@@ -43,13 +43,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SparshMalhotra&theme=tokyonight)  
 
 ---
-
-### 🎨 How to Add a Banner  
-1. **Create a banner** (1000x300px recommended)  
-2. **Upload it to your GitHub repository**  
-3. **Replace `banner.png` with your image link**  
-
----
-
-🚀 **Now your GitHub profile looks more interactive!** 🔥  
-Let me know if you need **further customizations**! 😊  
