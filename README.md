@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sparsh Malhotra!  ![Profile Banner](https://raw.githubusercontent.com/SparshMalhotra/SparshMalhotra/main/banner.png)  
+# 👋 Hi, I'm Sparsh Malhotra!  
 
 ### 💻 Aspiring Developer | Learning JavaScript 🚀  
 
